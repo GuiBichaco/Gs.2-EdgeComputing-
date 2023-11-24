@@ -65,7 +65,7 @@ A instalação do Node-Red é simples:
 
 Após abrir o programa, vá nas três barrinhas no canto superior direito, "Gerenciar Paletas" e baixe a biblioteca node-red-dashboard.
 
-O código fonte de exemplo está na documentação do projeto.
+O código fonte de exemplo está na documentação do projeto. (Flow-Gs.2-IoT)
 
 Nele foram implementados:
 
